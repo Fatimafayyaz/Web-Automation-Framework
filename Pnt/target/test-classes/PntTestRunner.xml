@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Pnt Automation Script" parallel="false">
+
+    <!--<parameter name="useCloudEnv" value="false"/>-->
+    <!--<parameter name="cloudEnvName" value="browserstack"/>-->
+    <parameter name="os" value="windows"/>
+    <!--<parameter name="os_version" value="Sierra"/>-->
+    <parameter name="browserName" value="chrome"/>
+    <!--<parameter name="browserVersion" value="53.0"/>-->
+    <parameter name="url" value="https://www.piit.us"/>
+
+    <test name = "Pnt Forum">
+        <classes>
+            <!--<class name="home.TestSearchPage"/>-->
+            <!--<class name="menu.TestDropDownMenu"/>-->
+            <!--<class name="authenticationTesting.TestAuthentication"/>-->
+            <!--<class name="authenticationTesting.TestPopUpWindow"/>-->
+            <class name="authenticationTesting.TestKeywords"/>
+        </classes>
+    </test>
+
+</suite>

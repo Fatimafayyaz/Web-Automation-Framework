@@ -1,0 +1,9 @@
+test\appointment\TestAppointment.class
+test\authentication\TestPopUpWindow.class
+test\authentication\TestSignOut.class
+test\authentication\TestAuthentication.class
+test\linktext\HandleLinkText.class
+test\linktext\TestLinkTextMember.class
+test\testresults\TestMedicalRecord.class
+test\datadriventests\TestExcelReadLogin.class
+test\home\TestSearchOptions.class
