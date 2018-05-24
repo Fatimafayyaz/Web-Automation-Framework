@@ -1,7 +1,9 @@
 package home;
 
 import base.CommonAPI;
+import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
+import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
@@ -22,9 +24,11 @@ public class SearchMenus extends CommonAPI{
     public void setDropDownMenu(WebElement dropDownMenu) {
         this.dropDownMenu = dropDownMenu;
     }
-     public void clickOnMenuItem()throws InterruptedException
+     public void clickOnMenuItem(WebDriver driver1)throws InterruptedException
     {
-        getDropDownMenu().click();
+        driver1.findElement(By.id("searchDropdownBox")).click();
+       // getDropDownMenu().click();
+        //dropDownMenu.click();
         //Thread.sleep(2000);
        // waitUntilVisible(By.id("searchDropdownBox"));
         selectOptionByVisibleText(dropDownMenu,"Apps & Games");

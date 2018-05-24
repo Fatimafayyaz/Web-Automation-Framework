@@ -92,8 +92,8 @@ public class DataReader {
         sheet.createRow(i).createCell(0).setCellValue(value[i]);}
 //        sheet.createRow(1).createCell(0).setCellValue("fruits");
 //        sheet.createRow(2).createCell(0).setCellValue("vegetables");
-      fio = new FileOutputStream(new File("C:\\Users\\fatim\\Web-Automation-Framework\\Amazon\\data\\testfile2.xls"));
-       String path1="C:\\Users\\fatim\\Web-Automation-Framework\\Amazon\\data\\testfile2.xls";
+      fio = new FileOutputStream(new File(".\\data\\testfile2.xls"));
+       String path1=".\\data\\testfile2.xls";
         wb.write(fio);
         fio.close();
         wb.close();

@@ -2,6 +2,7 @@
 package search;
 
 import base.CommonAPI;
+import home.SearchItem;
 import home.SearchPage;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.Test;
@@ -20,11 +21,17 @@ public class TestSearch extends CommonAPI{
    typeOnInputField("twotabsearchtextbox","laptops");
    clickOnCss(".nav-input");
  }
- @Test
+ //@Test
  public void searchItems()throws IOException,InterruptedException{
   SearchPage searchPage=PageFactory.initElements(driver,SearchPage.class);
   searchPage.searchItemsAndSubmitButton();
      searchPage.writeItemsInExcelFile();
+ }
+ @Test
+    public void test(){
+     SearchItem searchItem1=new SearchItem();
+     searchItem1.searchItem();
+
  }
 
 }

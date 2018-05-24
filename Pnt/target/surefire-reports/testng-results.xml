@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Pnt Automation Script" duration-ms="20674" started-at="2018-05-22T07:40:05Z" finished-at="2018-05-22T07:40:26Z">
+    <groups>
+    </groups>
+    <test name="Pnt Forum" duration-ms="20674" started-at="2018-05-22T07:40:05Z" finished-at="2018-05-22T07:40:26Z">
+      <class name="home.TestSearchPage">
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:home.TestSearchPage@1563da5]" name="setUp" is-config="true" duration-ms="6818" started-at="2018-05-22T07:40:05Z" finished-at="2018-05-22T07:40:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[66.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[https://www.piit.us]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="searchNewTopic()[pri:0, instance:home.TestSearchPage@1563da5]" name="searchNewTopic" duration-ms="12862" started-at="2018-05-22T07:40:12Z" finished-at="2018-05-22T07:40:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchNewTopic -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:home.TestSearchPage@1563da5]" name="afterMethod" is-config="true" duration-ms="966" started-at="2018-05-22T07:40:25Z" finished-at="2018-05-22T07:40:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- home.TestSearchPage -->
+    </test> <!-- Pnt Forum -->
+  </suite> <!-- Pnt Automation Script -->
+</testng-results>
