@@ -39,12 +39,12 @@ public class SignInPage {
    public void typeUserName()
    {
        TestLogger.log(getClass().getSimpleName() + ": " + CommonAPI.convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-       getUserNameInputField().sendKeys("fatimafayyaz79");
+       getUserNameInputField().sendKeys("uesr1");
    }
    public void typePasseword()
    {
        TestLogger.log(getClass().getSimpleName() + ": " + CommonAPI.convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-       getPasswordInputField().sendKeys("Sfmmm1979");
+       getPasswordInputField().sendKeys("abcd");
    }
    public void clickOnAuthenticate()
    {
