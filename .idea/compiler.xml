@@ -20,7 +20,7 @@
       <module name="Kaiserpermanentee" target="1.8" />
       <module name="Pnt" target="1.8" />
       <module name="RestApi" target="1.8" />
-      <module name="W3schools" target="1.5" />
+      <module name="W3schools" target="1.8" />
       <module name="Web-Automation-Framework" target="1.5" />
     </bytecodeTargetLevel>
   </component>

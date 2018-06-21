@@ -2,94 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78f9318e-41ce-4dc8-a9a7-8d5b67d4fc5d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Amazon.iml" afterPath="$PROJECT_DIR$/Amazon/Amazon.iml" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/main/java/home/ItemsToBeSearched.java" afterPath="$PROJECT_DIR$/Amazon/src/main/java/home/ItemsToBeSearched.java" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/main/java/home/SearchPage.java" afterPath="$PROJECT_DIR$/Amazon/src/main/java/home/SearchPage.java" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/test/java/search/TestSearch.java" afterPath="$PROJECT_DIR$/Amazon/src/test/java/search/TestSearch.java" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunner.xml" afterPath="$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunner.xml" />
       <change beforePath="$PROJECT_DIR$/Amazon/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/Amazon/target/maven-archiver/pom.properties" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/test-classes/AmazonTestRunner.xml" afterPath="$PROJECT_DIR$/Amazon/target/test-classes/AmazonTestRunner.xml" />
-      <change beforePath="$PROJECT_DIR$/Generic/Generic.iml" afterPath="$PROJECT_DIR$/Generic/Generic.iml" />
-      <change beforePath="$PROJECT_DIR$/Generic/pom.xml" afterPath="$PROJECT_DIR$/Generic/pom.xml" />
       <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
       <change beforePath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/Kaiserpermanentee/Kaiserpermanentee.iml" afterPath="$PROJECT_DIR$/Kaiserpermanentee/Kaiserpermanentee.iml" />
-      <change beforePath="$PROJECT_DIR$/Kaiserpermanentee/src/main/java/authentication/SignInPage.java" afterPath="$PROJECT_DIR$/Kaiserpermanentee/src/main/java/authentication/SignInPage.java" />
-      <change beforePath="$PROJECT_DIR$/Kaiserpermanentee/src/main/java/authentication/SignoutPage.java" afterPath="$PROJECT_DIR$/Kaiserpermanentee/src/main/java/authentication/SignoutPage.java" />
-      <change beforePath="$PROJECT_DIR$/Kaiserpermanentee/src/main/java/authentication/popup/HandlePopup.java" afterPath="$PROJECT_DIR$/Kaiserpermanentee/src/main/java/authentication/popup/HandlePopup.java" />
-      <change beforePath="$PROJECT_DIR$/Kaiserpermanentee/src/test/java/test/authentication/TestAuthentication.java" afterPath="$PROJECT_DIR$/Kaiserpermanentee/src/test/java/test/authentication/TestAuthentication.java" />
-      <change beforePath="$PROJECT_DIR$/Kaiserpermanentee/src/test/java/test/authentication/TestPopUpWindow.java" afterPath="$PROJECT_DIR$/Kaiserpermanentee/src/test/java/test/authentication/TestPopUpWindow.java" />
-      <change beforePath="$PROJECT_DIR$/Kaiserpermanentee/src/test/java/test/authentication/TestSignOut.java" afterPath="$PROJECT_DIR$/Kaiserpermanentee/src/test/java/test/authentication/TestSignOut.java" />
-      <change beforePath="$PROJECT_DIR$/Kaiserpermanentee/src/test/resources/kaiserTestRunner.xml" afterPath="$PROJECT_DIR$/Kaiserpermanentee/src/test/resources/kaiserTestRunner.xml" />
       <change beforePath="$PROJECT_DIR$/Kaiserpermanentee/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/Kaiserpermanentee/target/maven-archiver/pom.properties" />
-      <change beforePath="$PROJECT_DIR$/Kaiserpermanentee/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/Kaiserpermanentee/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/Kaiserpermanentee/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/Kaiserpermanentee/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/Kaiserpermanentee/target/test-classes/kaiserTestRunner.xml" afterPath="$PROJECT_DIR$/Kaiserpermanentee/target/test-classes/kaiserTestRunner.xml" />
-      <change beforePath="$PROJECT_DIR$/Kaiserpermanentee/testdata/testfile1.xls" afterPath="$PROJECT_DIR$/Kaiserpermanentee/testdata/testfile1.xls" />
-      <change beforePath="$PROJECT_DIR$/Pnt/Pnt.iml" afterPath="$PROJECT_DIR$/Pnt/Pnt.iml" />
-      <change beforePath="$PROJECT_DIR$/Pnt/src/main/java/authentication/LoginPage.java" afterPath="$PROJECT_DIR$/Pnt/src/main/java/authentication/LoginPage.java" />
-      <change beforePath="$PROJECT_DIR$/Pnt/src/main/java/authentication/popup/HandlePopUp.java" afterPath="$PROJECT_DIR$/Pnt/src/main/java/authentication/popup/HandlePopUp.java" />
-      <change beforePath="$PROJECT_DIR$/Pnt/src/main/java/keywords/Features.java" afterPath="$PROJECT_DIR$/Pnt/src/main/java/keywords/Features.java" />
-      <change beforePath="$PROJECT_DIR$/Pnt/src/main/java/searchpage/SearchPage.java" afterPath="$PROJECT_DIR$/Pnt/src/main/java/searchpage/SearchPage.java" />
-      <change beforePath="$PROJECT_DIR$/Pnt/src/test/java/authenticationTesting/TestAuthentication.java" afterPath="$PROJECT_DIR$/Pnt/src/test/java/authenticationTesting/TestAuthentication.java" />
-      <change beforePath="$PROJECT_DIR$/Pnt/src/test/java/authenticationTesting/TestKeywords.java" afterPath="$PROJECT_DIR$/Pnt/src/test/java/authenticationTesting/TestKeywords.java" />
-      <change beforePath="$PROJECT_DIR$/Pnt/src/test/java/authenticationTesting/TestPopUpWindow.java" afterPath="$PROJECT_DIR$/Pnt/src/test/java/authenticationTesting/TestPopUpWindow.java" />
-      <change beforePath="$PROJECT_DIR$/Pnt/src/test/java/home/TestSearchPage.java" afterPath="$PROJECT_DIR$/Pnt/src/test/java/home/TestSearchPage.java" />
-      <change beforePath="$PROJECT_DIR$/Pnt/src/test/resources/PntTestRunner.xml" afterPath="$PROJECT_DIR$/Pnt/src/test/resources/PntTestRunner.xml" />
       <change beforePath="$PROJECT_DIR$/Pnt/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/Pnt/target/maven-archiver/pom.properties" />
-      <change beforePath="$PROJECT_DIR$/Pnt/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/Pnt/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/Pnt/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/Pnt/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/Pnt/target/surefire-reports/Pnt Automation Script/Pnt Forum.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pnt/target/surefire-reports/Pnt Automation Script/Pnt Forum.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pnt/target/surefire-reports/TEST-TestSuite.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pnt/target/surefire-reports/TestSuite.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pnt/target/surefire-reports/bullet_point.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pnt/target/surefire-reports/collapseall.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pnt/target/surefire-reports/emailable-report.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pnt/target/surefire-reports/failed.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pnt/target/surefire-reports/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pnt/target/surefire-reports/jquery-1.7.1.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pnt/target/surefire-reports/junitreports/TEST-home.TestSearchPage.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pnt/target/surefire-reports/navigator-bullet.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pnt/target/surefire-reports/old/Pnt Automation Script/Pnt Forum.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pnt/target/surefire-reports/old/Pnt Automation Script/classes.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pnt/target/surefire-reports/old/Pnt Automation Script/groups.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pnt/target/surefire-reports/old/Pnt Automation Script/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pnt/target/surefire-reports/old/Pnt Automation Script/main.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pnt/target/surefire-reports/old/Pnt Automation Script/methods-alphabetical.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pnt/target/surefire-reports/old/Pnt Automation Script/methods-not-run.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pnt/target/surefire-reports/old/Pnt Automation Script/methods.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pnt/target/surefire-reports/old/Pnt Automation Script/reporter-output.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pnt/target/surefire-reports/old/Pnt Automation Script/testng.xml.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pnt/target/surefire-reports/old/Pnt Automation Script/toc.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pnt/target/surefire-reports/old/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pnt/target/surefire-reports/passed.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pnt/target/surefire-reports/skipped.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pnt/target/surefire-reports/testng-reports.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pnt/target/surefire-reports/testng-reports.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pnt/target/surefire-reports/testng-results.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pnt/target/surefire-reports/testng.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pnt/target/test-classes/PntTestRunner.xml" afterPath="$PROJECT_DIR$/Pnt/target/test-classes/PntTestRunner.xml" />
-      <change beforePath="$PROJECT_DIR$/RestApi/RestApi.iml" afterPath="$PROJECT_DIR$/RestApi/RestApi.iml" />
-      <change beforePath="$PROJECT_DIR$/RestApi/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/RestApi/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/RestApi/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/RestApi/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/RestApi/target/test-classes/EmployeeRestAPITestRunner.xml" afterPath="$PROJECT_DIR$/RestApi/target/test-classes/EmployeeRestAPITestRunner.xml" />
+      <change beforePath="$PROJECT_DIR$/RestApi/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/RestApi/target/maven-archiver/pom.properties" />
+      <change beforePath="$PROJECT_DIR$/W3schools/Extent-Report/ExtentReport.html" afterPath="$PROJECT_DIR$/W3schools/Extent-Report/ExtentReport.html" />
       <change beforePath="$PROJECT_DIR$/W3schools/W3schools.iml" afterPath="$PROJECT_DIR$/W3schools/W3schools.iml" />
+      <change beforePath="$PROJECT_DIR$/W3schools/pom.xml" afterPath="$PROJECT_DIR$/W3schools/pom.xml" />
       <change beforePath="$PROJECT_DIR$/W3schools/src/main/java/tabledata/ReadDataFromTable.java" afterPath="$PROJECT_DIR$/W3schools/src/main/java/tabledata/ReadDataFromTable.java" />
       <change beforePath="$PROJECT_DIR$/W3schools/src/test/java/testcelldata/TestReadDataFromTable.java" afterPath="$PROJECT_DIR$/W3schools/src/test/java/testcelldata/TestReadDataFromTable.java" />
+      <change beforePath="$PROJECT_DIR$/W3schools/src/test/resources/W3SchoolsTestRunner.xml" afterPath="$PROJECT_DIR$/W3schools/src/test/resources/W3SchoolsTestRunner.xml" />
       <change beforePath="$PROJECT_DIR$/W3schools/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/W3schools/target/maven-archiver/pom.properties" />
       <change beforePath="$PROJECT_DIR$/W3schools/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/W3schools/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
       <change beforePath="$PROJECT_DIR$/W3schools/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/W3schools/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/W3schools/target/test-classes/W3SchoolsTestRunner.xml" afterPath="$PROJECT_DIR$/W3schools/target/test-classes/W3SchoolsTestRunner.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -114,7 +44,88 @@
     <SUITE FILE_PATH="coverage/Web_Automation_Framework$C__Users_fatim_Web_Automation_Framework_Pnt_src_test_resources_PntTestRunner_xml.coverage" NAME="$PROJECT_DIR$/Pnt/src/test/resources/PntTestRunner.xml Coverage Results" MODIFIED="1527569946410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="W3SchoolsTestRunner.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/W3schools/src/test/resources/W3SchoolsTestRunner.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="12" column="51" lean-forward="false" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestReadDataFromTable.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/W3schools/src/test/java/testcelldata/TestReadDataFromTable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestAuthentication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pnt/src/test/java/authenticationTesting/TestAuthentication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="13" column="34" lean-forward="false" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pnt/src/main/java/authentication/LoginPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="470">
+              <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReadDataFromTable.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/W3schools/src/main/java/tabledata/ReadDataFromTable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommonAPI.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="187" column="16" lean-forward="false" selection-start-line="187" selection-start-column="16" selection-end-line="187" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/W3schools/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="724">
+              <caret line="42" column="10" lean-forward="false" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -136,8 +147,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Generic/src/main/java/database/ConnectDB.java" />
-        <option value="$PROJECT_DIR$/W3schools/pom.xml" />
-        <option value="$PROJECT_DIR$/W3schools/src/test/resources/W3SchoolsTestRunner.xml" />
         <option value="$PROJECT_DIR$/Pnt/src/main/java/keywords/ItemsToBeSearched.java" />
         <option value="$PROJECT_DIR$/Kaiserpermanentee/src/main/java/datadriven/ExcelReadLoginCredentials.java" />
         <option value="$PROJECT_DIR$/Kaiserpermanentee/src/test/java/test/datadriventests/TestExcelReadLogin.java" />
@@ -161,7 +170,6 @@
         <option value="$PROJECT_DIR$/Generic/pom.xml" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java" />
-        <option value="$PROJECT_DIR$/W3schools/src/main/java/tabledata/ReadDataFromTable.java" />
         <option value="$PROJECT_DIR$/Pnt/src/main/java/authentication/LoginPage.java" />
         <option value="$PROJECT_DIR$/Pnt/src/test/java/authenticationTesting/TestPopUpWindow.java" />
         <option value="$PROJECT_DIR$/Pnt/src/test/java/authenticationTesting/TestKeywords.java" />
@@ -176,16 +184,19 @@
         <option value="$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunner.xml" />
         <option value="$PROJECT_DIR$/Amazon/src/main/java/home/SearchPage.java" />
         <option value="$PROJECT_DIR$/Amazon/src/main/java/home/SearchItem.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
         <option value="$PROJECT_DIR$/Kaiserpermanentee/src/test/resources/kaiserTestRunner.xml" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java" />
-        <option value="$PROJECT_DIR$/W3schools/src/test/java/testcelldata/TestReadDataFromTable.java" />
         <option value="$PROJECT_DIR$/Pnt/src/test/java/authenticationTesting/TestAuthentication.java" />
         <option value="$PROJECT_DIR$/Pnt/src/test/java/home/TestSearchPage.java" />
         <option value="$PROJECT_DIR$/Kaiserpermanentee/src/test/java/test/authentication/TestAuthentication.java" />
         <option value="$PROJECT_DIR$/Kaiserpermanentee/src/test/java/test/authentication/TestPopUpWindow.java" />
         <option value="$PROJECT_DIR$/Kaiserpermanentee/src/test/java/test/authentication/TestSignOut.java" />
         <option value="$PROJECT_DIR$/Amazon/src/test/java/search/TestSearch.java" />
+        <option value="$PROJECT_DIR$/W3schools/src/test/resources/W3SchoolsTestRunner.xml" />
+        <option value="$PROJECT_DIR$/W3schools/pom.xml" />
+        <option value="$PROJECT_DIR$/W3schools/src/main/java/tabledata/ReadDataFromTable.java" />
+        <option value="$PROJECT_DIR$/W3schools/src/test/java/testcelldata/TestReadDataFromTable.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
       </list>
     </option>
   </component>
@@ -201,6 +212,15 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="w3schools" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="w3schools" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="web-automation" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
@@ -212,13 +232,10 @@
       <select />
     </treeState>
   </component>
-  <component name="MavenRunner">
-    <option name="skipTests" value="true" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="46" />
-    <option name="y" value="23" />
-    <option name="width" value="1920" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="726" />
+    <option name="y" value="7" />
+    <option name="width" value="1200" />
     <option name="height" value="1009" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -248,7 +265,28 @@
             <path>
               <item name="Web-Automation-Framework" type="b2602c69:ProjectViewProjectNode" />
               <item name="Web-Automation-Framework" type="462c0819:PsiDirectoryNode" />
-              <item name="Kaiserpermanentee" type="462c0819:PsiDirectoryNode" />
+              <item name="W3schools" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Web-Automation-Framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web-Automation-Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="W3schools" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Web-Automation-Framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web-Automation-Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="W3schools" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Web-Automation-Framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web-Automation-Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="W3schools" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -298,7 +336,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/fatim/Web-Automation-Framework/Amazon/src/test/resources/AmazonTestRunner.xml">
+  <component name="RunManager" selected="TestNG.C:/Users/fatim/Web-Automation-Framework/W3schools/src/test/resources/W3SchoolsTestRunner.xml">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -536,10 +574,10 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.C:/Users/fatim/Web-Automation-Framework/Amazon/src/test/resources/AmazonTestRunner.xml" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.C:/Users/fatim/Web-Automation-Framework/Kaiserpermanentee/src/test/resources/kaiserTestRunner.xml" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.C:/Users/fatim/Web-Automation-Framework/Pnt/src/test/resources/PntTestRunner.xml" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.C:/Users/fatim/Web-Automation-Framework/W3schools/src/test/resources/W3SchoolsTestRunner.xml" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.C:/Users/fatim/Web-Automation-Framework/W3schools/src/test/resources/W3SchoolsTestRunner.xml" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.C:/Users/fatim/Web-Automation-Framework/Amazon/src/test/resources/AmazonTestRunner.xml" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.C:/Users/fatim/Web-Automation-Framework/Kaiserpermanentee/src/test/resources/kaiserTestRunner.xml" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.C:/Users/fatim/Web-Automation-Framework/Pnt/src/test/resources/PntTestRunner.xml" />
         <item index="4" class="java.lang.String" itemvalue="TestNG.C:/Users/fatim/Web-Automation-Framework/RestApi/src/test/resources/EmployeeRestAPITestRunner.xml" />
       </list>
     </recent_temporary>
@@ -561,27 +599,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="C__Users_fatim_Web-Automation-Framework_Amazon_src_test_resources_AmazonTestRunner_xml - 2018.05.29 at 06h 04m 08s.xml">
-      <configuration name="C:/Users/fatim/Web-Automation-Framework/Amazon/src/test/resources/AmazonTestRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_fatim_Web-Automation-Framework_Amazon_src_test_resources_AmazonTestRunner_xml - 2018.05.29 at 06h 07m 47s.xml">
-      <configuration name="C:/Users/fatim/Web-Automation-Framework/Amazon/src/test/resources/AmazonTestRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_fatim_Web-Automation-Framework_Kaiserpermanentee_src_test_resources_kaiserTestRunner_xml - 2018.05.29 at 05h 24m 18s.xml">
-      <configuration name="C:/Users/fatim/Web-Automation-Framework/Kaiserpermanentee/src/test/resources/kaiserTestRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_fatim_Web-Automation-Framework_Kaiserpermanentee_src_test_resources_kaiserTestRunner_xml - 2018.05.29 at 05h 30m 39s.xml">
-      <configuration name="C:/Users/fatim/Web-Automation-Framework/Kaiserpermanentee/src/test/resources/kaiserTestRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_fatim_Web-Automation-Framework_Kaiserpermanentee_src_test_resources_kaiserTestRunner_xml - 2018.05.29 at 05h 36m 14s.xml">
-      <configuration name="C:/Users/fatim/Web-Automation-Framework/Kaiserpermanentee/src/test/resources/kaiserTestRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_fatim_Web-Automation-Framework_Kaiserpermanentee_src_test_resources_kaiserTestRunner_xml - 2018.05.29 at 05h 41m 23s.xml">
-      <configuration name="C:/Users/fatim/Web-Automation-Framework/Kaiserpermanentee/src/test/resources/kaiserTestRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_fatim_Web-Automation-Framework_Pnt_src_test_resources_PntTestRunner_xml - 2018.05.29 at 05h 00m 34s.xml">
-      <configuration name="C:/Users/fatim/Web-Automation-Framework/Pnt/src/test/resources/PntTestRunner.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="C__Users_fatim_Web-Automation-Framework_Pnt_src_test_resources_PntTestRunner_xml - 2018.05.29 at 05h 05m 28s.xml">
       <configuration name="C:/Users/fatim/Web-Automation-Framework/Pnt/src/test/resources/PntTestRunner.xml" configurationId="TestNG" />
     </history-entry>
@@ -591,35 +608,56 @@
     <history-entry file="C__Users_fatim_Web-Automation-Framework_Pnt_src_test_resources_PntTestRunner_xml - 2018.05.29 at 05h 12m 21s.xml">
       <configuration name="C:/Users/fatim/Web-Automation-Framework/Pnt/src/test/resources/PntTestRunner.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="C__Users_fatim_Web-Automation-Framework_W3schools_src_test_resources_W3SchoolsTestRunner_xml - 2018.06.21 at 04h 13m 08s.xml">
+      <configuration name="C:/Users/fatim/Web-Automation-Framework/W3schools/src/test/resources/W3SchoolsTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_fatim_Web-Automation-Framework_W3schools_src_test_resources_W3SchoolsTestRunner_xml - 2018.06.21 at 04h 30m 10s.xml">
+      <configuration name="C:/Users/fatim/Web-Automation-Framework/W3schools/src/test/resources/W3SchoolsTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_fatim_Web-Automation-Framework_W3schools_src_test_resources_W3SchoolsTestRunner_xml - 2018.06.21 at 04h 36m 43s.xml">
+      <configuration name="C:/Users/fatim/Web-Automation-Framework/W3schools/src/test/resources/W3SchoolsTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_fatim_Web-Automation-Framework_W3schools_src_test_resources_W3SchoolsTestRunner_xml - 2018.06.21 at 04h 44m 10s.xml">
+      <configuration name="C:/Users/fatim/Web-Automation-Framework/W3schools/src/test/resources/W3SchoolsTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_fatim_Web-Automation-Framework_W3schools_src_test_resources_W3SchoolsTestRunner_xml - 2018.06.21 at 04h 53m 02s.xml">
+      <configuration name="C:/Users/fatim/Web-Automation-Framework/W3schools/src/test/resources/W3SchoolsTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_fatim_Web-Automation-Framework_W3schools_src_test_resources_W3SchoolsTestRunner_xml - 2018.06.21 at 05h 00m 26s.xml">
+      <configuration name="C:/Users/fatim/Web-Automation-Framework/W3schools/src/test/resources/W3SchoolsTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_fatim_Web-Automation-Framework_W3schools_src_test_resources_W3SchoolsTestRunner_xml - 2018.06.21 at 05h 01m 11s.xml">
+      <configuration name="C:/Users/fatim/Web-Automation-Framework/W3schools/src/test/resources/W3SchoolsTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5773875" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.50416666" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12916666" sideWeight="0.4938918" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14270833" sideWeight="0.4938918" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37102085" sideWeight="0.49583334" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19583334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5205158" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3677278" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5773875" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17239584" sideWeight="0.5061082" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -715,6 +753,24 @@
           <properties />
           <option name="timeStamp" value="89" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/W3schools/src/test/java/testcelldata/TestReadDataFromTable.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/W3schools/src/main/java/tabledata/ReadDataFromTable.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java</url>
+          <line>240</line>
+          <properties />
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Pnt/src/main/java/authentication/LoginPage.java</url>
           <line>63</line>
@@ -724,57 +780,15 @@
           <option name="timeStamp" value="62" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="90" />
+      <option name="time" value="93" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/TestRunner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="349" column="23" lean-forward="false" selection-start-line="349" selection-start-column="23" selection-end-line="349" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/TestMethodWorker.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pnt/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="41" column="10" lean-forward="false" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.11.0/selenium-remote-driver-3.11.0.jar!/org/openqa/selenium/remote/RemoteWebDriver.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="95" column="0" lean-forward="false" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/test/resources/AmazonSearchTestRunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="47" lean-forward="false" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/googleApi/GoogleSheetReader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="446">
           <caret line="82" column="1" lean-forward="false" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/Invoker.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="851" column="0" lean-forward="false" selection-start-line="851" selection-start-column="0" selection-end-line="851" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -841,20 +855,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="74" column="22" lean-forward="false" selection-start-line="74" selection-start-column="22" selection-end-line="74" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
@@ -876,13 +876,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/W3schools/src/test/resources/W3SchoolsTestRunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Pnt/src/main/java/keywords/Features.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -901,14 +894,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="33" column="77" lean-forward="false" selection-start-line="33" selection-start-column="77" selection-end-line="33" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pnt/src/main/java/authentication/LoginPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="64" column="144" lean-forward="false" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="144" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -976,27 +961,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/W3schools/src/main/java/tabledata/ReadDataFromTable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/W3schools/src/test/java/testcelldata/TestReadDataFromTable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pnt/src/test/java/authenticationTesting/TestAuthentication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="13" column="34" lean-forward="false" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Pnt/src/test/java/authenticationTesting/TestKeywords.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -1044,14 +1008,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pnt/src/test/resources/PntTestRunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="21" column="72" lean-forward="false" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="72" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Kaiserpermanentee/src/test/java/test/appointment/TestAppointment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
@@ -1063,16 +1019,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="91" column="51" lean-forward="true" selection-start-line="91" selection-start-column="51" selection-end-line="91" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1096,6 +1043,126 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pnt/src/test/resources/PntTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="51" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="14" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/W3schools/Extent-Report/ExtentReport.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pnt/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="40" column="12" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="40" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="67" column="41" lean-forward="false" selection-start-line="67" selection-start-column="41" selection-end-line="67" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pnt/src/main/java/authentication/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pnt/src/test/java/authenticationTesting/TestAuthentication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="13" column="34" lean-forward="false" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/W3schools/src/test/java/testcelldata/TestReadDataFromTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/W3schools/src/main/java/tabledata/ReadDataFromTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/W3schools/src/test/resources/W3SchoolsTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="51" lean-forward="false" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/W3schools/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="724">
+          <caret line="42" column="10" lean-forward="false" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/Invoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="349" column="0" lean-forward="false" selection-start-line="349" selection-start-column="0" selection-end-line="349" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/MethodInvocationHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="187" column="16" lean-forward="false" selection-start-line="187" selection-start-column="16" selection-end-line="187" selection-end-column="16" />
           <folding />
         </state>
       </provider>

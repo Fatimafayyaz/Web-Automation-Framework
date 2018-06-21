@@ -36,7 +36,7 @@ import java.util.List;
 import java.util.concurrent.TimeUnit;
 public class CommonAPI {
 
-    public  WebDriver driver=null;
+    public static  WebDriver driver=null;
     public String browserstack_username= "fatimafayyaz1";
     public String browserstack_accesskey = "otPNpCsiyDcuJTKkm2tB";
     public String saucelabs_username = "fatimafayyaz";
@@ -110,7 +110,7 @@ public class CommonAPI {
             getLocalDriver(os, browserName);
         }
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-        driver.manage().timeouts().pageLoadTimeout(25, TimeUnit.SECONDS);
+        driver.manage().timeouts().pageLoadTimeout(10, TimeUnit.SECONDS);
         driver.get(url);
         driver.manage().window().maximize();
     }
