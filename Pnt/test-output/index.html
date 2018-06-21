@@ -49,7 +49,7 @@
               <ul>
                 <li>
                   <a href="#" class="navigator-link " panel-name="test-xml-Pnt_Automation_Script">
-                    <span>C:\Users\fatim\Web-Automation-Framework\Pnt\target\test-classes\PntTestRunner.xml</span>
+                    <span>C:\Users\fatim\Web-Automation-Framework\Pnt\src\test\resources\PntTestRunner.xml</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -102,7 +102,7 @@
                     <div class="method-list-content passed suite-Pnt_Automation_Script">
                       <span>
                         <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Pnt_Automation_Script" title="home.TestSearchPage" hash-for-method="searchNewTopic">searchNewTopic</a> <!-- method navigator-link -->
+                        <a href="#" class="method navigator-link" panel-name="suite-Pnt_Automation_Script" title="authenticationTesting.TestPopUpWindow" hash-for-method="testPopUp">testPopUp</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content passed suite-Pnt_Automation_Script -->
@@ -120,14 +120,14 @@
           <div class="suite-Pnt_Automation_Script-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
-              <span class="class-name">home.TestSearchPage</span>
+              <span class="class-name">authenticationTesting.TestPopUpWindow</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="searchNewTopic">
-                  </a> <!-- searchNewTopic -->
-                  <span class="method-name">searchNewTopic</span>
+                  <a name="testPopUp">
+                  </a> <!-- testPopUp -->
+                  <span class="method-name">testPopUp</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -135,20 +135,23 @@
         </div> <!-- panel Pnt_Automation_Script -->
         <div panel-name="test-xml-Pnt_Automation_Script" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">C:\Users\fatim\Web-Automation-Framework\Pnt\target\test-classes\PntTestRunner.xml</span>
+            <span class="header-content">C:\Users\fatim\Web-Automation-Framework\Pnt\src\test\resources\PntTestRunner.xml</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <pre>
 &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
 &lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
-&lt;suite guice-stage=&quot;DEVELOPMENT&quot; verbose=&quot;0&quot; name=&quot;Pnt Automation Script&quot;&gt;
+&lt;suite guice-stage=&quot;DEVELOPMENT&quot; name=&quot;Pnt Automation Script&quot;&gt;
+  &lt;parameter name=&quot;useCloudEnv&quot; value=&quot;false&quot;/&gt;
   &lt;parameter name=&quot;os&quot; value=&quot;windows&quot;/&gt;
+  &lt;parameter name=&quot;os_version&quot; value=&quot;10&quot;/&gt;
   &lt;parameter name=&quot;browserVersion&quot; value=&quot;66.0&quot;/&gt;
   &lt;parameter name=&quot;browserName&quot; value=&quot;chrome&quot;/&gt;
+  &lt;parameter name=&quot;cloudEnvName&quot; value=&quot;saucelabs&quot;/&gt;
   &lt;parameter name=&quot;url&quot; value=&quot;https://www.piit.us&quot;/&gt;
-  &lt;test thread-count=&quot;5&quot; verbose=&quot;0&quot; name=&quot;Pnt Forum&quot;&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;Pnt Forum&quot;&gt;
     &lt;classes&gt;
-      &lt;class name=&quot;home.TestSearchPage&quot;/&gt;
+      &lt;class name=&quot;authenticationTesting.TestPopUpWindow&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- Pnt Forum --&gt;
 &lt;/suite&gt; &lt;!-- Pnt Automation Script --&gt;
@@ -190,14 +193,14 @@ data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
 data.addRows(1);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'searchNewTopic')
-data.setCell(0, 2, 'home.TestSearchPage')
-data.setCell(0, 3, 12862);
+data.setCell(0, 1, 'testPopUp')
+data.setCell(0, 2, 'authenticationTesting.TestPopUpWindow')
+data.setCell(0, 3, 2099);
 window.suiteTableData['Pnt_Automation_Script']= { tableData: data, tableDiv: 'times-div-Pnt_Automation_Script'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 12 seconds</span>
+              <span class="suite-total-time">Total running time: 2 seconds</span>
               <div id="times-div-Pnt_Automation_Script">
               </div> <!-- times-div-Pnt_Automation_Script -->
             </div> <!-- times-div -->
@@ -208,6 +211,15 @@ return data;
             <span class="header-content">Reporter output for Pnt Automation Script</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">testPopUp</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">TestPopUpWindow: test Pop Up</span>
+                <span class="reporter-method-output">HandlePopUp: handle Pop Up Window Before Log In</span>
+                <span class="reporter-method-output">HandlePopUp: is Scholarship Pop Up Window Displayed</span>
+                <span class="reporter-method-output">popup not displayed</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
         <div panel-name="ignored-methods-Pnt_Automation_Script" class="panel">
@@ -223,19 +235,35 @@ return data;
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="chronological-class">
-              <div class="chronological-class-name">home.TestSearchPage</div> <!-- chronological-class-name -->
-              <div class="configuration-method before">
-                <span class="method-name">setUp(false, false, windows, 10, chrome, 66.0, https://www.piit.us)</span>
+              <div class="chronological-class-name">authenticationTesting.TestPopUpWindow</div> <!-- chronological-class-name -->
+              <div class="configuration-suite before">
+                <span class="method-name">extentSetup(org.testng.TestRunner@1941a8ff)</span>
                 <span class="method-start">0 ms</span>
+              </div> <!-- configuration-suite before -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp(false, saucelabs, windows, 10, chrome, 66.0, https://www.piit.us)</span>
+                <span class="method-start">297 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">startExtent(public void authenticationTesting.TestPopUpWindow.testPopUp() throws java.lang.InterruptedException)</span>
+                <span class="method-start">7142 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
-                <span class="method-name">searchNewTopic</span>
-                <span class="method-start">6818 ms</span>
+                <span class="method-name">testPopUp</span>
+                <span class="method-start">7153 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
-                <span class="method-name">afterMethod</span>
-                <span class="method-start">19681 ms</span>
+                <span class="method-name">afterEachTestMethod([TestResult name=testPopUp status=SUCCESS method=TestPopUpWindow.testPopUp()[pri:0, instance:authent...)</span>
+                <span class="method-start">9252 ms</span>
               </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">afterMethod</span>
+                <span class="method-start">10312 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-suite after">
+                <span class="method-name">generateReport</span>
+                <span class="method-start">10328 ms</span>
+              </div> <!-- configuration-suite after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
       </div> <!-- main-panel-root -->

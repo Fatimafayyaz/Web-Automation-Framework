@@ -6,6 +6,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import reporting.TestLogger;
 
 public class SearchPage extends LoginPage{
     @FindBy(xpath ="//*[@id=\"button_search\"]" )
@@ -35,15 +36,19 @@ public class SearchPage extends LoginPage{
         this.clickOnSearchButtonWebElement = clickOnSearchButtonWebElement;
     }
      public void clickOnSearchMenu(){
+         TestLogger.log(getClass().getSimpleName() + ": " + CommonAPI.convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         getClickOnSearchTabWebElement().click();
     }
     public void typeOnSearchInputField(){
+        TestLogger.log(getClass().getSimpleName() + ": " + CommonAPI.convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         getSearchInputFieldWebElement().sendKeys("Selenium");
     }
     public void clickOnSearchButton(){
+        TestLogger.log(getClass().getSimpleName() + ": " + CommonAPI.convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         getClickOnSearchButtonWebElement().click();
     }
     public void searchTopics(WebDriver driver1)throws InterruptedException{
+        TestLogger.log(getClass().getSimpleName() + ": " + CommonAPI.convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
      //   CommonAPI.sleepFor(1);
         clickOnSearchMenu();
         CommonAPI.sleepFor(1);

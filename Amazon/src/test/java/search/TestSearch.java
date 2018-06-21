@@ -1,15 +1,16 @@
 
 package search;
 
-import base.CommonAPI;
 import home.SearchItem;
 import home.SearchPage;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.Test;
+import reporting.ApplicationLog;
+import reporting.TestLogger;
 
 import java.io.IOException;
 
-public class TestSearch extends CommonAPI{
+public class TestSearch extends SearchPage{
 
  //@Test
     public void test2() {
@@ -21,17 +22,18 @@ public class TestSearch extends CommonAPI{
    typeOnInputField("twotabsearchtextbox","laptops");
    clickOnCss(".nav-input");
  }
- //@Test
- public void searchItems()throws IOException,InterruptedException{
-  SearchPage searchPage=PageFactory.initElements(driver,SearchPage.class);
-  searchPage.searchItemsAndSubmitButton();
-     searchPage.writeItemsInExcelFile();
- }
  @Test
+ public void searchItemsList()throws IOException,InterruptedException{
+  ApplicationLog.epicLogger();
+  TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+  SearchPage searchPage=PageFactory.initElements(driver,SearchPage.class);
+  searchPage.searchItemsAndSubmitButton(driver);
+     //searchPage.writeItemsInExcelFile();
+ }
+ //@Test
     public void test(){
      SearchItem searchItem1=new SearchItem();
      searchItem1.searchItem();
 
  }
-
 }

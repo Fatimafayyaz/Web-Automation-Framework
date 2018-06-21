@@ -8,13 +8,13 @@
     <parameter name="os" value="windows"/>
     <!--<parameter name="os_version" value="Sierra"/>-->
     <parameter name="browserName" value="chrome"/>
-    <!--<parameter name="browserVersion" value="60.0"/>-->
+    <!--<parameter name="browserVersion" value="66.0"/>-->
     <parameter name="url" value="https://www.piit.us"/>
 
     <test name = "Employee Information Services">
         <classes>
             <class name="restApis.AllEmployeesRestServices"/>
-            <class name="restApis.SingleEmployeesRestServices"/>
+            <!--<class name="restApis.SingleEmployeesRestServices"/>-->
         </classes>
     </test>
 

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Extent Report DirectoryC:\Users\fatim\Web-Automation-Framework\Pnt\test-output\html]]>
+    </line>
+    <line>
+      <![CDATA[TestPopUpWindow: test Pop Up]]>
+    </line>
+    <line>
+      <![CDATA[HandlePopUp: handle Pop Up Window Before Log In]]>
+    </line>
+    <line>
+      <![CDATA[HandlePopUp: is Scholarship Pop Up Window Displayed]]>
+    </line>
+    <line>
+      <![CDATA[popup not displayed]]>
+    </line>
+  </reporter-output>
+  <suite name="Pnt Automation Script" duration-ms="10030" started-at="2018-05-29T09:12:10Z" finished-at="2018-05-29T09:12:20Z">
+    <groups>
+    </groups>
+    <test name="Pnt Forum" duration-ms="10030" started-at="2018-05-29T09:12:10Z" finished-at="2018-05-29T09:12:20Z">
+      <class name="authenticationTesting.TestPopUpWindow">
+        <test-method status="PASS" signature="extentSetup(org.testng.ITestContext)[pri:0, instance:authenticationTesting.TestPopUpWindow@6321e813]" name="extentSetup" is-config="true" duration-ms="282" started-at="2018-05-29T09:12:10Z" finished-at="2018-05-29T09:12:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@1941a8ff]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Extent Report DirectoryC:\Users\fatim\Web-Automation-Framework\Pnt\test-output\html]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- extentSetup -->
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:authenticationTesting.TestPopUpWindow@6321e813]" name="setUp" is-config="true" duration-ms="6845" started-at="2018-05-29T09:12:10Z" finished-at="2018-05-29T09:12:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[saucelabs]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[66.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[https://www.piit.us]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:authenticationTesting.TestPopUpWindow@6321e813]" name="startExtent" is-config="true" duration-ms="11" started-at="2018-05-29T09:12:17Z" finished-at="2018-05-29T09:12:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void authenticationTesting.TestPopUpWindow.testPopUp() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtent -->
+        <test-method status="PASS" signature="testPopUp()[pri:0, instance:authenticationTesting.TestPopUpWindow@6321e813]" name="testPopUp" duration-ms="2099" started-at="2018-05-29T09:12:17Z" finished-at="2018-05-29T09:12:19Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TestPopUpWindow: test Pop Up]]>
+            </line>
+            <line>
+              <![CDATA[HandlePopUp: handle Pop Up Window Before Log In]]>
+            </line>
+            <line>
+              <![CDATA[HandlePopUp: is Scholarship Pop Up Window Displayed]]>
+            </line>
+            <line>
+              <![CDATA[popup not displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testPopUp -->
+        <test-method status="PASS" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:authenticationTesting.TestPopUpWindow@6321e813]" name="afterEachTestMethod" is-config="true" duration-ms="1060" started-at="2018-05-29T09:12:19Z" finished-at="2018-05-29T09:12:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testPopUp status=SUCCESS method=TestPopUpWindow.testPopUp()[pri:0, instance:authenticationTesting.TestPopUpWindow@6321e813] output=TestPopUpWindow: test Pop Up]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:authenticationTesting.TestPopUpWindow@6321e813]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-05-29T09:12:20Z" finished-at="2018-05-29T09:12:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="generateReport()[pri:0, instance:authenticationTesting.TestPopUpWindow@6321e813]" name="generateReport" is-config="true" duration-ms="31" started-at="2018-05-29T09:12:20Z" finished-at="2018-05-29T09:12:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateReport -->
+      </class> <!-- authenticationTesting.TestPopUpWindow -->
+    </test> <!-- Pnt Forum -->
+  </suite> <!-- Pnt Automation Script -->
+</testng-results>

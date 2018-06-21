@@ -1,8 +1,10 @@
 package authentication;
 
+import base.CommonAPI;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import reporting.TestLogger;
 
 public class SignInPage {
     @FindBy(css="#userid")
@@ -31,22 +33,27 @@ public class SignInPage {
     }
    public void clickOnSignInButton()
    {
+       TestLogger.log(getClass().getSimpleName() + ": " + CommonAPI.convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
        getClickButtonElement().click();
    }
    public void typeUserName()
    {
-       getUserNameInputField().sendKeys("testuser");
+       TestLogger.log(getClass().getSimpleName() + ": " + CommonAPI.convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+       getUserNameInputField().sendKeys("fatimafayyaz79");
    }
    public void typePasseword()
    {
-       getPasswordInputField().sendKeys("abcd1234");
+       TestLogger.log(getClass().getSimpleName() + ": " + CommonAPI.convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+       getPasswordInputField().sendKeys("Sfmmm1979");
    }
    public void clickOnAuthenticate()
    {
+       TestLogger.log(getClass().getSimpleName() + ": " + CommonAPI.convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
        getClickButtonElement().click();
    }
    public void signInToKaiser(WebDriver driver) {
-        typeUserName();
+       TestLogger.log(getClass().getSimpleName() + ": " + CommonAPI.convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+       typeUserName();
        typePasseword();
        clickOnSignInButton();
        }

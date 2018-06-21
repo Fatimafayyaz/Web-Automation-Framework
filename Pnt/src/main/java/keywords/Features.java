@@ -4,6 +4,7 @@ import authentication.LoginPage;
 import base.CommonAPI;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
+import reporting.TestLogger;
 import searchpage.SearchPage;
 
 import java.io.IOException;
@@ -49,6 +50,7 @@ public class Features extends CommonAPI {
     }
 
     public void selectFeatures(WebDriver driver1)throws IOException, InterruptedException{
+        TestLogger.log(getClass().getSimpleName() + ": " + CommonAPI.convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         ItemsToBeSearched itemsToBeSearched = new ItemsToBeSearched();
         String [] testSteps = itemsToBeSearched.getDataFromExcelFileForFeaturesChoice();
         for(int i=0; i<testSteps.length; i++) {

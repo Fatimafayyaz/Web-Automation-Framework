@@ -1,6 +1,7 @@
 package home;
 
 import base.CommonAPI;
+import reporting.TestLogger;
 import utility.DataReader;
 
 import java.io.IOException;
@@ -10,6 +11,7 @@ public class ItemsToBeSearched extends CommonAPI {
 
 
     public String[] getDataFromExcelFile() throws IOException {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         String path ="C:\\Users\\fatim\\Web-Automation-Framework\\Amazon\\data\\testfile1.xls";
         String[] data = dr.fileReader2(path,0);
         return data;

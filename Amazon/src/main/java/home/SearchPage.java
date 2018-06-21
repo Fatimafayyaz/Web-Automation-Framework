@@ -3,9 +3,11 @@ package home;
 import base.CommonAPI;
 import database.ConnectDB;
 import org.openqa.selenium.Keys;
+import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
+import reporting.TestLogger;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -23,16 +25,24 @@ public class SearchPage extends CommonAPI{
         return submitButtonWebElement;
     }
     public void searchFor(String value){
+
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+        TestLogger.log(value);
         getSearchInputWebElement().sendKeys(value);
     }
-    public void submitSearchButton(){
+    public void submitSearchButton()
+    {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         getSubmitButtonWebElement().click();
+        TestLogger.log("specific page displayed");
     }
     public void clearInput(){
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         getSearchInputWebElement().clear();
     }
 
-    public void searchItemsAndSubmitButton()throws IOException,InterruptedException {
+    public void searchItemsAndSubmitButton(WebDriver driver1)throws IOException,InterruptedException {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         ItemsToBeSearched itemsToBeSearched = new ItemsToBeSearched();
         String [] value = itemsToBeSearched.getDataFromExcelFile();
         for(int i=0; i<value.length; i++) {

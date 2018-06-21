@@ -5,6 +5,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import reporting.TestLogger;
 
 public class LoginPage extends CommonAPI{
     @FindBy(css = "#globl-cont a")
@@ -42,18 +43,26 @@ public class LoginPage extends CommonAPI{
     }
     public void clickOnLoginButton()
     {
+        TestLogger.log(getClass().getSimpleName() + ": " + CommonAPI.convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         getLoginButtonElement().click();
     }
     public void typeUserName(){
+
+        TestLogger.log(getClass().getSimpleName() + ": " + CommonAPI.convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         getUserNameInputField().sendKeys("testuser1");
     }
     public void typePassword(){
+
+        TestLogger.log(getClass().getSimpleName() + ": " + CommonAPI.convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         getPasswordInputField().sendKeys("abcd1234");
     }
     public void clickOnAuthenticate(){
+
+        TestLogger.log(getClass().getSimpleName() + ": " + CommonAPI.convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         getClickButtonElement().click();
     }
     public void loginToPntForum(WebDriver driver1) throws InterruptedException{
+        TestLogger.log(getClass().getSimpleName() + ": " + CommonAPI.convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         clickOnLoginButton();
         CommonAPI.handleNewTab(driver1);
         typeUserName();

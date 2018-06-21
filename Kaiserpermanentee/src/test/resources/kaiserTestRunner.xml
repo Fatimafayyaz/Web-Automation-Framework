@@ -14,14 +14,14 @@
     <test name = "Kaiser SignIn">
         <classes>
             <!--<class name="search.TestSearch"/>-->
-            <!--<class name="test.authentication.TestAuthentication"/>-->
-            <!--<class name="test.authentication.TestPopUpWindow"/>-->
-           <!-- <class name="test.authentication.TestSignOut"/>-->
+            <class name="test.authentication.TestAuthentication"/>
+            <class name="test.authentication.TestPopUpWindow"/>
+            <class name="test.authentication.TestSignOut"/>
             <!--<class name="test.linktext.HandleLinkText"/>-->
             <!--<class name="test.home.TestSearchOptions"/>-->
             <!--<class name="test.linktext.TestLinkTextMember"/>-->
             <!--<class name="test.appointment.TestAppointment"/>-->
-            <class name="test.datadriventests.TestExcelReadLogin"/>
+            <!--<class name="test.datadriventests.TestExcelReadLogin"/>-->
             <!--<class name="test.testresults.TestMedicalRecord"/>-->
        </classes>
    </test>
