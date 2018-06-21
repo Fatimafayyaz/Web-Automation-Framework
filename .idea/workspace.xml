@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78f9318e-41ce-4dc8-a9a7-8d5b67d4fc5d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Kaiserpermanentee/testdata/testfile1.xls" afterPath="$PROJECT_DIR$/Kaiserpermanentee/testdata/testfile1.xls" />
-    </list>
+    <list default="true" id="78f9318e-41ce-4dc8-a9a7-8d5b67d4fc5d" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Generic/target/" />
@@ -254,17 +252,6 @@
             <path>
               <item name="Web-Automation-Framework" type="b2602c69:ProjectViewProjectNode" />
               <item name="Web-Automation-Framework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Web-Automation-Framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Web-Automation-Framework" type="462c0819:PsiDirectoryNode" />
-              <item name="Kaiserpermanentee" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Web-Automation-Framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Web-Automation-Framework" type="462c0819:PsiDirectoryNode" />
-              <item name="Kaiserpermanentee" type="462c0819:PsiDirectoryNode" />
-              <item name="testdata" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
